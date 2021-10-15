@@ -1,0 +1,85 @@
+*{
+    padding:0;
+    margin:0;
+}
+
+.form-js{
+    border: 3px solid#2c3e50;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    color:white;
+    margin-bottom: 20px;
+    font-size:20px;
+    opacity: 0.5;
+    justify-content:center;
+    background:red;
+}
+
+.principal{
+    margin-top: 50px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.formulario{
+    text-align: left;
+    display:flex;
+    margin-bottom: 20px;
+    font: 12px;
+    color:rgb(179, 11, 11);
+    opacity: 0.5;
+    background:rgb(202, 212, 218);
+    border:1px solid rgb(221, 209, 209);
+    
+    
+}
+
+.card-body{
+    border-color: white;
+}
+
+body{
+    background:rgb(26, 21, 21)
+}
+  
+input[type="text"]{
+    width: 300px;
+    height:15px;
+    padding: 10px;
+    border-radius: 4px;
+    border: 3px solid#2c3e50;
+    outline:none;
+    color:rgb(255, 7, 7);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    font-weight:10px;
+    z index: -1px;
+}
+
+label{
+    font-size: 20px;
+    font-weight:10px;
+    color: rgb(255, 7, 7);
+}
+
+
+.button{
+    padding:10px 15px 10px 10px;
+    background:rgb(17, 13, 226);
+    color:white;
+    font-size: 19px;
+    font-weight: 12px;
+}
+
+.container{
+    margin: 2%;
+    border-radius: 1px solid rgb(228, 222, 222);
+    opacity: 1;
+    z-index:1;
+}
+
+
