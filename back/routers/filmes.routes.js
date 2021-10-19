@@ -1,7 +1,7 @@
 const express=require('express');
 const router= express.Router()
 
- filmes =[
+ filmes :[
     {
       id:Date.now,
       "Nome":"Pantera Negra ",
